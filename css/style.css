@@ -1,0 +1,27 @@
+.home {
+    text-align: center;
+    margin: 150px;
+}
+.home h1{
+    font-size: 80px;
+}
+
+button{
+    background-color:blue;
+    color: aliceblue;
+    margin-top: 20px;
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 15px;
+    border: none;
+    border-radius: 30px;
+}
+
+p{
+    font-size: 30px;
+}
+
+button:hover {
+    background-color: blueviolet;
+}
